@@ -10,7 +10,7 @@ Projeto prático: usar o **Medusa** no Kali Linux para simular ataques de
 força bruta e *password spraying* contra **Metasploitable 2** (que já traz o **DVWA**), em
 rede isolada, e transformar cada achado em medida de prevenção.
 
-Todos os números deste README vieram de execução real no laboratório: alvo em
+Todos os números deste README vieram de execução real no laboratório: alvo em exemplo:
 `192.168.56.103`, rede Host-only do VirtualBox, logs gerados com `-O`.
 
 > **Aviso legal.** Conteúdo produzido em máquinas próprias, com alvos intencionalmente
