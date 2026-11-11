@@ -6,7 +6,7 @@
 ![Medusa](https://img.shields.io/badge/Medusa-2.3-orange)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
 
-Projeto prático do desafio da DIO: usar o **Medusa** no Kali Linux para simular ataques de
+Projeto prático: usar o **Medusa** no Kali Linux para simular ataques de
 força bruta e *password spraying* contra **Metasploitable 2** (que já traz o **DVWA**), em
 rede isolada, e transformar cada achado em medida de prevenção.
 
